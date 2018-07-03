@@ -1,1 +1,1 @@
-Update_Ver,1;MS_IP,47.41.0.18,47.41.0.18,;MS_Port,1101,1401,;F_IP,47.41.0.18,47.41.0.18,;F_Port,1102,1402,;P_IP,47.41.0.18,47.41.0.18,;P_Port,1103,1403,;Country,United States;City,;
+Update_Ver,1;MS_IP,47.41.0.18,47.41.0.18,;MS_Port,1101,1401,;F_IP,47.41.0.18,47.41.0.18,;F_Port,1102,1402,;P_IP,47.41.0.18,47.41.0.18,;P_Port,1103,1403,;Country,United States,CountryA,CountryB,CountryC;City,CityA,CityB,CityC;
