@@ -1,6 +1,5 @@
 {
-    "m_savedLocationUpdateVersionNumber": 0,
-    "m_readLocationUpdateVersionNumber": 0,
+    "updateVersion": 1,
     "stringMasterServerIP": [
         "47.41.0.18",
         "47.41.0.18"
