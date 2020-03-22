@@ -1,24 +1,24 @@
 {
     "updateVersion": 1,
     "stringMasterServerIP": [
-        "96.41.2.59",
-        "96.41.2.59"
+        "24.205.18.78",
+        "24.205.18.78"
     ],
     "stringMasterServerPort": [
         1101,
         1401
     ],
     "stringFacilitatorIP": [
-        "96.41.2.59",
-        "96.41.2.59"
+        "24.205.18.78",
+        "24.205.18.78"
     ],
     "stringFacilitatorPort": [
         1102,
         1402
     ],
     "stringProxyIP": [
-        "96.41.2.59",
-        "96.41.2.59"
+        "24.205.18.78",
+        "24.205.18.78"
     ],
     "stringProxyPort": [
         1103,
