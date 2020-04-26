@@ -1,0 +1,134 @@
+{
+    "updateVersion": 0,
+    "country": [
+        {
+            "countryName": "China",
+            "city": [],
+            "country_MS_IP_Port": [
+                {
+                    "masterServerIP": "24.205.18.78",
+                    "masterServerPort": "1101",
+                    "facilitatorIP": "24.205.18.78",
+                    "facilitatorPort": "1102",
+                    "proxyIP": "24.205.18.78",
+                    "proxyPort": "1103"
+                }
+            ]
+        },
+        {
+            "countryName": "Japan",
+            "city": [
+                {
+                    "cityName": "a1",
+                    "city_MS_IP_Port": [
+                        {
+                            "masterServerIP": "a11",
+                            "masterServerPort": "a11",
+                            "facilitatorIP": "a11",
+                            "facilitatorPort": "a11",
+                            "proxyIP": "a11",
+                            "proxyPort": "a11"
+                        }
+                    ]
+                },
+                {
+                    "cityName": "a2",
+                    "city_MS_IP_Port": [
+                        {
+                            "masterServerIP": "a22",
+                            "masterServerPort": "a22",
+                            "facilitatorIP": "a22",
+                            "facilitatorPort": "a22",
+                            "proxyIP": "a22",
+                            "proxyPort": "a22"
+                        }
+                    ]
+                }
+            ],
+            "country_MS_IP_Port": []
+        },
+        {
+            "countryName": "France",
+            "city": [
+                {
+                    "cityName": "",
+                    "city_MS_IP_Port": []
+                }
+            ],
+            "country_MS_IP_Port": [
+                {
+                    "masterServerIP": "a33",
+                    "masterServerPort": "a33",
+                    "facilitatorIP": "a33",
+                    "facilitatorPort": "a33",
+                    "proxyIP": "a33",
+                    "proxyPort": "a33"
+                }
+            ]
+        },
+        {
+            "countryName": "USA",
+            "city": [
+                {
+                    "cityName": "Los Angeles",
+                    "city_MS_IP_Port": [
+                        {
+                            "masterServerIP": "24.205.18.78",
+                            "masterServerPort": "1101",
+                            "facilitatorIP": "24.205.18.78",
+                            "facilitatorPort": "1102",
+                            "proxyIP": "24.205.18.78",
+                            "proxyPort": "1103"
+                        }
+                    ]
+                },
+                {
+                    "cityName": "New York",
+                    "city_MS_IP_Port": [
+                        {
+                            "masterServerIP": "24.205.18.78",
+                            "masterServerPort": "1101",
+                            "facilitatorIP": "24.205.18.78",
+                            "facilitatorPort": "1102",
+                            "proxyIP": "24.205.18.78",
+                            "proxyPort": "1103"
+                        }
+                    ]
+                }
+            ],
+            "country_MS_IP_Port": []
+        },
+        {
+            "countryName": "USA",
+            "city": [
+                {
+                    "cityName": "USA1",
+                    "city_MS_IP_Port": [
+                        {
+                            "masterServerIP": "US1",
+                            "masterServerPort": "",
+                            "facilitatorIP": "",
+                            "facilitatorPort": "",
+                            "proxyIP": "",
+                            "proxyPort": ""
+                        }
+                    ]
+                },
+                {
+                    "cityName": "USA2",
+                    "city_MS_IP_Port": [
+                        {
+                            "masterServerIP": "US2",
+                            "masterServerPort": "",
+                            "facilitatorIP": "",
+                            "facilitatorPort": "",
+                            "proxyIP": "",
+                            "proxyPort": ""
+                        }
+                    ]
+                }
+            ],
+            "country_MS_IP_Port": []
+        }
+    ]
+}
