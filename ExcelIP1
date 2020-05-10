@@ -1,7 +1,7 @@
 {
     "updateVersion": 1,
     "ipAddressLink": [
-        "https://api.ipify.org/",
+        "ahttps://api.ipify.org/",
         "http://checkip.dyndns.org/"
     ],
     "country": [],
