@@ -1,6 +1,9 @@
 {
     "updateVersion": 1,
-    "ipAddressLink": [],
+    "ipAddressLink": [
+        "https://api.ipify.org/",
+        "http://checkip.dyndns.org/"
+    ],
     "country": [],
     "noLocationMS_IP_Port": [
         {
