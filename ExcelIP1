@@ -7,7 +7,34 @@
     "country": [
         {
             "countryName": "USA",
-            "city": [],
+            "city": [
+                {
+                    "cityName": "Los Angeles",
+                    "city_MS_IP_Port": [
+                        {
+                            "masterServerIP": "24.205.18.78",
+                            "masterServerPort": 1101,
+                            "facilitatorIP": "24.205.18.78",
+                            "facilitatorPort": 1102,
+                            "proxyIP": "24.205.18.78",
+                            "proxyPort": 1103
+                        }
+                    ]
+                },
+                {
+                    "cityName": "New York",
+                    "city_MS_IP_Port": [
+                        {
+                            "masterServerIP": "24.205.18.78",
+                            "masterServerPort": 1101,
+                            "facilitatorIP": "24.205.18.78",
+                            "facilitatorPort": 1102,
+                            "proxyIP": "24.205.18.78",
+                            "proxyPort": 1103
+                        }
+                    ]
+                }
+            ],
             "country_MS_IP_Port": [
                 {
                     "masterServerIP": "24.205.18.78",
