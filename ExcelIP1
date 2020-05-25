@@ -1,10 +1,39 @@
 {
     "updateVersion": 1,
     "ipAddressLink": [
-        "ahttps://api.ipify.org/",
+        "https://api.ipify.org/",
         "http://checkip.dyndns.org/"
     ],
-    "country": [],
+    "country": [
+        {
+            "countryName": "USA",
+            "city": [],
+            "country_MS_IP_Port": [
+                {
+                    "masterServerIP": "24.205.18.78",
+                    "masterServerPort": 1101,
+                    "facilitatorIP": "24.205.18.78",
+                    "facilitatorPort": 1102,
+                    "proxyIP": "24.205.18.78",
+                    "proxyPort": 1103
+                }
+            ]
+        },
+        {
+            "countryName": "Japan",
+            "city": [],
+            "country_MS_IP_Port": [
+                {
+                    "masterServerIP": "24.205.18.78",
+                    "masterServerPort": 1101,
+                    "facilitatorIP": "24.205.18.78",
+                    "facilitatorPort": 1102,
+                    "proxyIP": "24.205.18.78",
+                    "proxyPort": 1103
+                }
+            ]
+        }
+    ],
     "noLocationMS_IP_Port": [
         {
             "masterServerIP": "24.205.18.78",
