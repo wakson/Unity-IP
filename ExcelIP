@@ -1,69 +1,18 @@
 {
     "updateVersion": 1,
-    "stringMasterServerIP": [
-        "24.205.18.78",
-        "24.205.18.78"
+    "ipAddressLink": [
+        "https://api.ipify.org/",
+        "http://checkip.dyndns.org/"
     ],
-    "stringMasterServerPort": [
-        1101,
-        1401
-    ],
-    "stringFacilitatorIP": [
-        "24.205.18.78",
-        "24.205.18.78"
-    ],
-    "stringFacilitatorPort": [
-        1102,
-        1402
-    ],
-    "stringProxyIP": [
-        "24.205.18.78",
-        "24.205.18.78"
-    ],
-    "stringProxyPort": [
-        1103,
-        1403
-    ],
-    "country": [
+    "country": [],
+    "noLocationMS_IP_Port": [
         {
-            "countryName": "United States",
-            "city": [
-                {
-                    "cityName": "Austin"
-                },
-                {
-                    "cityName": "Los Angeles"
-                },
-                {
-                    "cityName": "New York City"
-                }
-            ]
-        },
-        {
-            "countryName": "China",
-            "city": [
-                {
-                    "cityName": "Beijing"
-                },
-                {
-                    "cityName": "Hong Kong"
-                }
-            ]
-        },
-        {
-            "countryName": "Japan",
-            "city": [
-                {
-                    "cityName": "Toyko"
-                },
-                {
-                    "cityName": "Shibuya"
-                }
-            ]
-        },
-        {
-            "countryName": "Europe",
-            "city": []
+            "masterServerIP": "24.205.18.78",
+            "masterServerPort": 1101,
+            "facilitatorIP": "24.205.18.78",
+            "facilitatorPort": 1102,
+            "proxyIP": "24.205.18.78",
+            "proxyPort": 1103
         }
     ]
 }
